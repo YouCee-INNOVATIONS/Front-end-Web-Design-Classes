@@ -1,20 +1,63 @@
-html, body {
-  height: 100%;
-  width: 100%;
+/*---     by Tags          ---*/
+
+body {
+  margin: 0;
 }
+
+button {
+  margin: 20px 20px;
+  padding: 8px 16px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+
+/*---     by classes          ---*/
 
 .picture {
   width: 200px;
   height: 300px;
   border: 5px solid purple;
   padding: 10px;
-  margin: 0px 10px;
+  margin: 5px 20px;
 }
+
+.signup { color: white; background-image: linear-gradient(#33b1ff, blue); }
+.enter { color: white; background-image: linear-gradient(#09f109, green)    }
+
+/*---     by ID          ---*/
 
 #box1 {
-  
 }
 
-#box2 {
+#box2 {}
+
+
+
+
+
+
+
+
+
+
+/* html, body {
+  height: 100%;
+  width: 100%;
+} */
+
+/* .picture {
+  width: 200px;
+  height: 300px;
+  border: 5px solid purple;
+  padding: 10px;
+  margin: 0px 10px;
+} */
+
+/* #box1 {
+  
+} */
+
+/* #box2 { */
   
 }
